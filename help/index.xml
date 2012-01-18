@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<!DOCTYPE index PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 2.0//EN"
+                       "http://java.sun.com/products/javahelp/index_2_0.dtd">
+
+<index version="2.0">
+	<indexitem text="AccesosDirectos" target="AccesosDirectos" />
+	<indexitem text="Buscar Persona" target="Buscar3" />
+	<indexitem text="Estandares" target="Estandares" />
+	<indexitem text="Portada" target="index" />
+	<indexitem text="Login" target="Login" />
+	<indexitem text="MDI" target="MDI" />
+	<indexitem text="Modulo Personas" target="Personas2" />
+	<indexitem text="Menu del Sistema" target="Menu2" />
+	<indexitem text="Nueva Persona" target="Nuevo3" />
+	<indexitem text="Personas Tabla" target="personas1" />
+	<indexitem text="Splash" target="Splash" />
+</index>

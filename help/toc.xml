@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<!DOCTYPE toc PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp TOC Version 2.0//EN"
+                     "http://java.sun.com/products/javahelp/toc_2_0.dtd">
+
+<toc version="2.0">
+	<tocitem text="PORTADA" target="index" />
+	<tocitem text="jFas-TSJ" target="Splash">
+		<tocitem text="Inicio de Sesion" target="Login" />
+		<tocitem text="Interfaz del Sistema" target="MDI" />
+		<tocitem text="Estandares" target="Estandares" />
+		<tocitem text="Accesos Directos" target="AccesosDirectos" />
+	</tocitem>
+	<tocitem text="Menu" target="Menu2">
+		<tocitem text="Personas" target="Personas2">
+			<tocitem text="Nuevo" target="Nuevo3" />
+			<tocitem text="Personas" target="personas1" />
+			<tocitem text="Buscar" target="Buscar3" />
+		</tocitem>
+	</tocitem>
+</toc>

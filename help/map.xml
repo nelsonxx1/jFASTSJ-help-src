@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<!DOCTYPE map PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Map Version 2.0//EN"
+                     "http://java.sun.com/products/javahelp/map_2_0.dtd">
+
+<map version="1.0">
+	<mapID target="buscar" url="Imagenes/Personas/buscar.png"/>
+	<mapID target="historial" url="Imagenes/Personas/historial.png"/>
+	<mapID target="nueva" url="Imagenes/Personas/nueva.png"/>
+	<mapID target="personas" url="Imagenes/Personas/personas.png"/>
+	<mapID target="menu" url="Imagenes/menu.png"/>
+	<mapID target="personas1" url="HTMLS/personas/Personas.html"/>
+	<mapID target="Personas2" url="HTMLS/Personas.html"/>
+	<mapID target="Nuevo3" url="HTMLS/personas/Nuevo.html"/>
+	<mapID target="Buscar3" url="HTMLS/personas/Buscar.html"/>
+	<mapID target="Splash" url="HTMLS/sistema/Splash.html"/>
+	<mapID target="Login" url="HTMLS/sistema/Login.html"/>
+	<mapID target="MDI" url="HTMLS/sistema/MDI.html"/>
+	<mapID target="Estandares" url="HTMLS/sistema/Estandares.html"/>
+	<mapID target="AccesosDirectos" url="HTMLS/sistema/AccesosDirectos.html"/>
+	<mapID target="Menu2" url="HTMLS/Menu2.html"/>
+	<mapID target="index" url="HTMLS/index.html"/>
+	<mapID target="draco" url="Imagenes/draco.png"/>
+	<mapID target="login1" url="Imagenes/sistema/login.png"/>
+	<mapID target="MDI1" url="Imagenes/sistema/MDI.png"/>
+	<mapID target="splash1" url="Imagenes/sistema/splash.png"/>
+	<mapID target="add" url="Imagenes/estandar/add.png"/>
+	<mapID target="back" url="Imagenes/estandar/back.png"/>
+	<mapID target="back2" url="Imagenes/estandar/back2.png"/>
+	<mapID target="back3" url="Imagenes/estandar/back3.png"/>
+	<mapID target="Barra de herramientas" url="Imagenes/estandar/Barra de herramientas.png"/>
+	<mapID target="campoObligatorio" url="Imagenes/estandar/campoObligatorio.png"/>
+	<mapID target="codLookup" url="Imagenes/estandar/codLookup.png"/>
+	<mapID target="columnaObligatoria" url="Imagenes/estandar/columnaObligatoria.png"/>
+	<mapID target="delete" url="Imagenes/estandar/delete.png"/>
+	<mapID target="edit" url="Imagenes/estandar/edit.png"/>
+	<mapID target="email" url="Imagenes/estandar/email.png"/>
+	<mapID target="fecha" url="Imagenes/estandar/fecha.png"/>
+	<mapID target="fecha2" url="Imagenes/estandar/fecha2.png"/>
+	<mapID target="fecha3" url="Imagenes/estandar/fecha3.png"/>
+	<mapID target="goto" url="Imagenes/estandar/goto.png"/>
+	<mapID target="grid2" url="Imagenes/estandar/grid2.png"/>
+	<mapID target="navegation Bar" url="Imagenes/estandar/navegation Bar.png"/>
+	<mapID target="next" url="Imagenes/estandar/next.png"/>
+	<mapID target="next2" url="Imagenes/estandar/next2.png"/>
+	<mapID target="next3" url="Imagenes/estandar/next3.png"/>
+	<mapID target="print" url="Imagenes/estandar/print.png"/>
+	<mapID target="refresh" url="Imagenes/estandar/refresh.png"/>
+	<mapID target="save" url="Imagenes/estandar/save.png"/>
+	<mapID target="search" url="Imagenes/estandar/search.png"/>
+</map>
